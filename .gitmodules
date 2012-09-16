@@ -1,0 +1,3 @@
+[submodule "lib/eunit"]
+	path = lib/eunit
+	url = https://github.com/richcarl/eunit.git
